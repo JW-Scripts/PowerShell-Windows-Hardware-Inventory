@@ -7,7 +7,7 @@ Computer Name, IP Address, Model & Manufacturer, Serial Number, OS Type, OS Vers
 Must run PowerShell window as administrator prior to execution. 
 
 # PowerShell Version
-Must use PowerShell Version 5.1 or earlier. 
+Must use PowerShell Version 5.1 
 
 # Description
 
