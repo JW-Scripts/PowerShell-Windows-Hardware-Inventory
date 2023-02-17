@@ -6,6 +6,9 @@ Computer Name, IP Address, Model & Manufacturer, Serial Number, OS Type, OS Vers
 
 Must run PowerShell window as administrator prior to execution. 
 
+# PowerShell Version
+Must use PowerShell Version 5.1 or earlier. 
+
 # Description
 
 This PowerShell script uses the Get-ADComputer module to enumerate validated Active Directory computers.
